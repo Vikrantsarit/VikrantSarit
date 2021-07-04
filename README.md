@@ -36,9 +36,9 @@
   
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Vikrantsarit&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vikrantsarit&theme=dark" width="45%" >
 
 <br>
 
