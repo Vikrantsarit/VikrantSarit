@@ -5,16 +5,19 @@
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhilai-3c9)
+![Age](https://img.shields.io/badge/Age-24-blue)
+![Focus](https://img.shields.io/badge/Focus-Automation-brightgreen)
+
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **SQL, HTML, CSS.**
+- 🌱 I’m currently learning **SQL, HTML, CSS, Tableau, Power BI,**
 
 - 📫 How to reach me: **vikassarit980@gmail.com**
 
-- ⚡ Fun fact: **I'm doing engineering 😃**
+- ⚡ Fun fact: **I build dashboards that tell stories—mostly about how everyone ignores the data until there’s a problem 😃**
 <br>
 
 ## 👨‍💻 Languages and Tools
