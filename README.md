@@ -1,17 +1,21 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vikrant Sarit !</h1>
 
-
+<!----
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhilai-3c9)
 ![Age](https://img.shields.io/badge/Age-24-blue)
 ![Focus](https://img.shields.io/badge/Focus-Automation-brightgreen)
+---->
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **Web Development.**
+- 🔭 I’m currently working on :
+  * Power BI Advanced Features
+  * SQL Query Optimization
+  * Automation using Python & Excel Macros
 
 - 🌱 I’m currently learning **SQL, HTML, CSS, Tableau, Power BI,**
 
